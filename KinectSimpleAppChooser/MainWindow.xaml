@@ -1,0 +1,9 @@
+﻿<Window x:Class="KinectSimpleAppChooser.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" 
+        xmlns:my="clr-namespace:KinectSimpleAppChooser">
+    <Grid>
+        <my:KinectSensorChooser HorizontalAlignment="Left" Margin="85,67,0,0" x:Name="kscReportKinectState" VerticalAlignment="Top" Width="328" />
+    </Grid>
+</Window>
