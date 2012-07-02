@@ -1,5 +1,5 @@
-#KinectSimpleAppChooser#
-
+KinectSimpleAppChooser
+=======================
 
 This simple application shows how to properly use [Kinect for Windows SDK](http://www.microsoft.com/en-us/kinectforwindows/ "Kinect for Windows SDK") in the WPF with Kinect Sensor Chooser (from MSFT).
 
